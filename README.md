@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This project requiresnpm to be installed on your machine. Check the website to learn how to install.  
+This project requires npm to be installed on your machine. Check the website to learn how to install.  
 This project also use contentful to server up website contents, such as images. You may choose to create a contentful account to use inside the project.  
 [npm official website](https://www.npmjs.com/get-npm)  
 [contentful official website](https://www.contentful.com/)
