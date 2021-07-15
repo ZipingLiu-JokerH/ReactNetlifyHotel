@@ -25,7 +25,8 @@
 
 ## About The Project
 
-This is a dummy website built with React and Contentful. User can view different hotal rooms based on their needs.
+This is a website built with React and Contentful. User can view different hotal rooms based on their needs.  
+I have worked on this website based on this [youtube video](https://www.youtube.com/watch?v=LXJOvkVYQqA) from freeCodeCamp.org.
 
 ### Built With
 
